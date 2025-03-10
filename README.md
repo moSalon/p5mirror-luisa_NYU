@@ -1,6 +1,6 @@
 # p5mirror-luisa_NYU
 
-# [p5mirror-luisa_NYU](hhttps://github.com/moSalon/p5mirror-luisa_NYU)
+# [p5mirror-luisa_NYU](https://github.com/moSalon/p5mirror-luisa_NYU)
 
 - [pages](https://mosalon.github.io/p5mirror-luisa_NYU)
 
