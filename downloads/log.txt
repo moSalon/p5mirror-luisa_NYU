@@ -1,0 +1,886 @@
+jht2@jht2-mbp-n2 p5mirror-luisa_NYU % bin/mirror.sh --user luisa_NYU
+
+Cloning into 'p5mirrorLib'...
+remote: Enumerating objects: 67, done.
+remote: Counting objects: 100% (67/67), done.
+remote: Compressing objects: 100% (65/65), done.
+remote: Total 67 (delta 5), reused 42 (delta 2), pack-reused 0 (from 0)
+Receiving objects: 100% (67/67), 32.46 KiB | 2.71 MiB/s, done.
+Resolving deltas: 100% (5/5), done.
+
+added 8 packages, and audited 9 packages in 1s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+download new 409 
+download 1 shake-QEM1tnYXE
+download 2 2_5_derive_equal_tempered_scales-iXq5gh4SG
+download 3 2_4_derive_pentatonic_scale-Agjy1M-S9
+download 4 2_3_pitch_set_keyboard-49z3U40Hl
+download 5 2_2_random_tones_within_pitch_set-n8cvmXT778
+download 6 2_1_random_tones_within_range-OVcoyLHKv
+download 7 2_1_leaping_tones-ikAmI3pT0
+download 8 2_0_1_instrument-HQrJd0Wag
+download 9 2_0_0_starter_code-KWiPisKid
+download 10 1_6_cross_rhythms-JHkYG8mdL
+download 11 1_5_syncopation-48LOVQa7u
+download 12 1_4_accents-or46Mib_O
+download 13 1_3_meter-ay9GU2TSQ
+download 14 1_2_2_tap_tempo-rb_GbwUmd
+download 15 1_2_1_tempo-yQ_JvTKtC
+download 16 1_1_pulse-uzDVX1Ymm
+download 17 1_0_starter_code-lyxKrogbZ
+download 18 1_9_loops_quantized-045PCv3_W
+download 19 1_8_loops_not_quantized-ay2K4eF5l
+download 20 1_7_loops_basic_scheduling-DYm-5g7SE
+download 21 1_6_mixer_effects_reverb-yiWKilVhD
+download 22 1_5_mixer_waveforms-JXNLO6ftn
+download 23 1_4_mixer_meters-NUdTTpoFW
+download 24 1_3_mixer_track_labels-jpApHFLIU
+download 25 1_2_mixer_sliders-Krie5RHHa
+download 26 1_1_mixer_starter-YDmSWppnT
+download 27 1_11_loops_record_mic-TcZKN-pc-
+download 28 1_10_loops_quantized_with_alts-EG5dh4BSF
+download 29 0_8_Mic_input_to_waveform-pyxMmgpFG
+download 30 0_7_FFT-xxVm4f7JL
+download 31 0_6_3_Waveform_circle-uWt4LPvdVC
+download 32 0_6_2_Waveform_fill-LJ5GXxgc_
+download 33 0_6_1_Waveform_stroke-HB5wHGzzb
+download 34 0_5_Amplitude-ibKI7AJ9H
+download 35 0_4_trigger_sounds_and_animate-_7LM1HbK1
+download 36 0_3_animate_following_playback_progress-qrg5xxiwW
+download 37 0_2_trigger_several_sounds-cjndUn09D
+download 38 0_1_play_sound-i-gBB5mx6
+download 39 2_1_random_tones_within_range-N0GebM2fy
+download 40 linear vs log mapping-RP8jXvjJf
+download 41 2_5_derive_equal_tempered_scales-Arnt7x0LW
+download 42 linear vs log mapping copy copy-6bviWtTiH
+download 43 linear vs log mapping copy copy-QlneEUGjQ
+download 44 Pattern-ErSuBCwCQ
+download 45 linear vs log mapping copy-XtbC5rDdc
+download 46 2_4_derive_pentatonic_scale-gPi64PR9A2
+download 47 Event copy-8VCEH4lkR
+download 48 scales copy-uIIZRWNJn
+download 49 random pitch sequences copy-Vcgb-721d
+download 50 2_0_starter_code-sP8aPuWu2
+download 51 2_5_derive_equal_tempered_scales-hKL7Q8Dkcg
+download 52 2_4_derive_pentatonic_scale-3QqxkL5GB
+download 53 2_3_pitch_set_keyboard-77D78ZFfkb
+download 54 2_2_random_tones_within_pitch_set-TKL3Lvwb9J
+download 55 2_1_random_tones_within_range-YLk8ddZ3n
+download 56 2_0_starter_code-ocXEgawYo
+download 57 1_6_cross_rhythms-6mqSfL2sm
+download 58 1_5_syncopation-jDmziRzQR
+download 59 1_4_accents-B-SEbtOqK0
+download 60 1_3_meter-BFSiebfvu
+download 61 1_2_2_tap_tempo-vwuBgSmom
+download 62 1_2_1_tempo-rBiGLlvgi
+download 63 1_1_pulse-dXQRla_js
+download 64 1_0_starter_code-fl6yNeyy5
+download 65 1_9_loops_quantized-CD6aWeM9Aq
+download 66 1_8_loops_not_quantized-hPfQPgh5K
+download 67 1_7_loops_basic_scheduling-mSqGEg_g5
+download 68 1_6_mixer_effects_reverb-pG0xr8YbtU
+download 69 1_5_mixer_waveforms-H4644lCRbQ
+download 70 1_4_mixer_meters-Fgtn_8MT
+download 71 1_3_mixer_track_labels-sZXgXdUB
+download 72 1_2_mixer_sliders-5bfaStPQTP
+download 73 1_1_mixer_starter-O098r5i-u
+download 74 1_11_loops_record_mic-FkhBj5lhc
+download 75 1_10_loops_quantized_with_alts-2QiFHVC_U
+download 76 0_8_Mic_input_to_waveform-RqoOx_onSV
+download 77 0_7_FFT-2NvxT9HDV
+download 78 0_6_3_Waveform_circle-CSLO9fHq2
+download 79 0_6_2_Waveform_fill-jf4JSUWRR
+download 80 0_6_1_Waveform_stroke-JQ9Jek3h5
+download 81 0_5_Amplitude-HXGKqZZ_U
+download 82 0_4_trigger_sounds_and_animate-yjGkW-aHt
+download 83 0_3_animate_following_playback_progress-p4On1XX4a
+download 84 0_2_trigger_several_sounds-cZtiSDhGL
+download 85 0_1_play_sound-SsgwtdTEl
+download 86 Cross-Rhythm copy-EO5iP5Nba
+download 87 6 make it interactive copy-wBrbmYSL_
+download 88 8_Mic_input_to_waveform-urN-kxi8tw
+download 89 7_FFT-dP5flwhO-
+download 90 6_3_Waveform_circle-yoRbNYJp-
+download 91 6_2_Waveform_fill-Uq_yrAsdb
+download 92 6_1_Waveform_stroke-aFXPx-bZ1
+download 93 5_Amplitude-FxT2N75Cm
+download 94 4_trigger_sounds_and_animate-2x6HeTJ2k
+download 95 3_animate_following_playback_progress-j9kLIR0_j
+download 96 2_trigger_several_sounds-DcH_kiE7v
+download 97 1_play_sound-HF4FEr-Lk
+download 98 5_Waveform-L_T8XGQzF
+download 99 3_Amplitude-rkDz6U34n
+download 100 2_FFT-IJUdVLOd
+download 101 1_Waveform-iNWMppm4v
+download 102 1_Waveform-qqMeoDqrj
+download 103 1_Waveform-yW886q84j
+download 104 1_Waveform-Q_R6Dya3q
+download 105 1_Waveform-aoMaKCe0u
+download 106 2_3_pitch_set_keyboard-35CosBzPpf
+download 107 2_2_random_tones_within_pitch_set-SnvLsD_Sq
+download 108 2_0_starter_code-VK0GKvUnA
+download 109 1_6_cross_rhythms-QG1bVSB27k
+download 110 1_5_syncopation-lmfnLB9wN
+download 111 1_4_accents-vG3twFPosh
+download 112 1_3_meter-uY74eaxct2
+download 113 1_2_2_tap_tempo-WhydCs53yV
+download 114 1_2_1_tempo-UYIELuoCx
+download 115 1_1_pulse-b3VTGFd_H
+download 116 1_0_starter_code-FxtCLGKD0
+download 117 4_trigger_sounds_and_animate-j2BgVkVlqM
+download 118 3_animate_following_playback_progress-FXAyn1o6H
+download 119 3_Amplitude-aWSSMq9jh
+download 120 2_trigger_several_sounds-ovOHtbel3
+download 121 2_FFT-DvkQdSPk3
+download 122 1_play_sound-Op290Hvel
+download 123 1_Waveform-ZYlllJGOl
+download 124 drum beat starter copy copy-DGhikvMFY
+download 125 drum beat starter copy-rXaI0QWKU
+download 126 tempo walk starter copy-sNoj8jtdE
+download 127 1_6_cross_rhythms-vtVoOphJVp
+download 128 1_5_syncopation-3usnKGumS
+download 129 1_4_accents-umQqQGpIh
+download 130 1_3_meter-llX7JKrNex
+download 131 1_2_2_tap_tempo-agp8TVHEgY
+download 132 1_2_1_tempo-P4gbHx0Dr
+download 133 1_1_pulse-iNkCjnrTu
+download 134 1_0_starter_code-RjgSYr1Rk
+download 135 1_6_cross_rhythms-yan7oULph0
+download 136 1_5_syncopation-AvLtqBEFk
+download 137 1_4_accents-VfFSuU4HE4
+download 138 1_3_meter-h0IGH-xjV
+download 139 1_2_2_tap_tempo-Np-if-p8t
+download 140 1_2_1_tempo-hAylUh8ws
+download 141 1_1_pulse-QefiwVpYq
+download 142 1_0_starter_code-GofPShVfZ
+download 143 1_6_cross_rhythms-AjqKA324yN
+download 144 1_5_syncopation-abkMEsCaoE
+download 145 1_4_accents-38kGbGLabq
+download 146 1_3_meter-wKUWRBcTB
+download 147 1_2_2_tap_tempo-xaHTR7DQJ
+download 148 1_2_1_tempo-u6hzbWVrV
+download 149 1_1_pulse-M7-d2h762
+download 150 1_0_starter_code-FzBYoyM5I
+download 151 1_6_cross_rhythms-A9y55PZPi
+download 152 1_5_syncopation-C7YBR-jTg
+download 153 1_4_accents-bb_lie-C9D
+download 154 1_3_meter-_TwP-yreg8
+download 155 1_2_2_tap_tempo-ftKf2SHXB6
+download 156 1_2_1_tempo-kR14Iayjj4
+download 157 1_1_pulse-8YbuaoUX8
+download 158 1_0_starter_code-1BlO01pMAl
+download 159 2_play_many_sounds copy-tqmR0AJTw
+download 160 1_play_sound-a17B4_c7x
+download 161 play a sound copy-aqaIIND-3
+download 162 play a sound copy-dV8Pb0s9K
+download 163 4_play_and_animate-Lmt3tXZAP
+download 164 Accents in class-rDKMyrHCf
+download 165 3 make a drum pattern starter-F5pvk8MVS
+download 166 Meter copy-zUAZeh4j8
+download 167 tap tempo-HNMbfKaB3
+download 168 drum beat starter copy-qBNG13s0
+download 169 pulse footstep with accents and measures-Hfyxq37k-
+download 170 pulse footstep with accents copy-R2g0F-9_s
+download 171 pulse footstep with accents-Y1eKh8svU
+download 172 pulse footstep with beat counting modullo-BzFggnPrP
+download 173 pulse footstep with bpm by hand-ZukodGTk2
+download 174 pulse-PQGI6a5T8
+download 175 tempo walk starter-57falXeqn
+download 176 drum beat starter-WzWSxxYub
+download 177 Beyonce End of Time Mixer-ibSDvtJVZ
+download 178 Loop Launcher - OO copy-AccpiAUEg
+download 179 Loop Launcher - OO-nrUjztGAG
+download 180 law of detachment copy-u1zJFsdeE
+download 181 2_ADSR_with_examples copy-bP5zHjHXd
+download 182 Past coast-VZqbEyLqb
+download 183 Mixer starter- Bon Iver tracks copy copy-vaQ2a3RYh
+download 184 Mixer starter- Bon Iver tracks copy-xy94f-lFx
+download 185 Mixer starter- Bon Iver tracks-6KHBNM37-
+download 186 visualize - FFT filled circle test-ikFJB_SB3
+download 187 Loops starter copy copy-1fwz18Mhq
+download 188 Loops starter copy-cwEfAJjZU
+download 189 visualize - waveform filled circle-uDhMc-dhK
+download 190 Bjork Mutual Core - Mixer with Waveform-1qoNg-ooV
+download 191 visualize - meter-kwk8N7GFd
+download 192 play a sound copy-XkKZTUM2O
+download 193 3_play_animation-IwqBmWS67
+download 194 starter for key presses copy-J1cgCSydL
+download 195 2_play_many_sounds copy-2WDTMKv6j
+download 196 2_play_many_sounds copy-IGCh68Esp
+download 197 play a sound copy-1kWiZ4Slx
+download 198 starter for key presses-2XTMXoxFT
+download 199 play a sound copy-riPmEx8jq
+download 200 starter copy-hTJ-VDxe9
+download 201 json score playback-VLGTuYcjW
+download 202 class pseudocode for josephine-WWJP3_sqo
+download 203 bingwen's code - office hours-BXt1zv4eR
+download 204 chords copy-WHsQrwCMY
+download 205 drone - chromatic scale-Tm1K6Us41
+download 206 generative drone from class, MIDI version-T_vXkoYqA
+download 207 tone starter-gSz5B0Lzu
+download 208 drone - within subset-JmfZe62t1
+download 209 drone - looped with silences-aPqilG14a
+download 210 drone - looped-rTJU6-Z9T
+download 211 drone within scale-Wtiy30giS
+download 212 For Jasmine Tremolo-EqkIZDS6D
+download 213 Mirette's Timbre Study copy-UbAHPthHX
+download 214 Jasmine's 5.3 timbre copy-kap4DMAl6
+download 215 Jasmine's 5.3 timbre-O6uwUtwIV
+download 216 Timbre Study copy-WHEjODnJV
+download 217 Filter with FFT visualization copy-toZ9lLEKW
+download 218 Waveforms copy-cydcBDTs0
+download 219 Waveforms copy-v-1RQQ8NR
+download 220 Filter envelope copy-rfhDRsgJ
+download 221 Starter copy-rG-zSHez-
+download 222 ADSR array copy-trSUptpND
+download 223 harmonics copy-RoLQnVEOm
+download 224 empty starter copy-uC1-F4c2s
+download 225 Spot dogsled-bRLOaxnCp
+download 226 Open rover-3ZPlKUL0C
+download 227 in class 2 - currentStep based on Tone position-zzIfp2hzM
+download 228 in class-YxI8PyEpp
+download 229 3.4 Interactive rhythm final copy-vFtUDpjrv
+download 230 3.4 copy-jNvGZ6ndj
+download 231 Mirette's 3.4 Interactive rhythm final copy-0mykugcp9
+download 232 3.4 Interactive rhythm final copy-RQb6htCYw
+download 233 3.4 copy-BPwfBP_Ue
+download 234 4_trigger_sounds_and_animate-na1nz4-R7
+download 235 3_animate_following_playback_progress-nsQsWRR2X
+download 236 2_trigger_several_sounds-KD2aif6JX
+download 237 4_trigger_sounds_and_animate-Joee5LECoK
+download 238 3_animate_following_playback_progress-TYlebqMyi
+download 239 2_trigger_several_sounds-_D76byZri
+download 240 1_play_sound-nYcPnBERE
+download 241 Interactive Composition-8k7OmNb0y
+download 242 AV Instrument-8UdODC1Tc
+download 243 Pulse walking steps-yPrI77tIZ
+download 244 2 make a beat, add tempo slider-LEaODZJkI
+download 245 drum beat starter copy-A6r3OSds3
+download 246 tempo walk starter copy copy-A86W4n9V7
+download 247 tempo walk starter copy-xjMP5bXRp
+download 248 4 make a drum machine, using a matrix-X6W7IHAGe
+download 249 4 make a drum machine, using a matrix-m93FSTiNR
+download 250 4 make a drum machine-3no6uILub
+download 251 3 make a drum pattern-srAp7xgob
+download 252 3 make a drum pattern-9KKeBmlyH
+download 253 3 make a drum pattern copy copy copy-2BzM-l5TK
+download 254 2 make a beat, add tempo slider copy-1uIYSy3Jx
+download 255 2 make a beat, add tempo slider copy-NK5n1HtvL
+download 256 2 make a beat copy-Dq0wS1e2d
+download 257 Accents-M-N5COMAs
+download 258 Tempo Speed copy-H_NdCgKru
+download 259 pulse-ZlJETo-SY
+download 260 tap tempo copy - TO DELETE-nuW3i8z3J
+download 261 Beyonce End of Time Mixer copy-F1NlHPGgA
+download 262 drum pad-PBb9ytNaR
+download 263 visualize - meter copy copy-0rVvzntt8
+download 264 3_play_animation copy-iae9z16GU
+download 265 code of music 1.1 copy-ptvjNf2q_
+download 266 Loops starter midpoint 5-0WXkqnL9Z
+download 267 Loops starter midpoint 3-GaXfjY57A
+download 268 Loops starter midpoint 2-63rjLWUVC
+download 269 reverb-f8TbfaHuJ
+download 270 Beyonce End of Time Mixer OO and labels-F3VXJsTkM
+download 271 Beyonce End of Time Mixer OO and labels copy copy-EZoar317ex
+download 272 Beyonce End of Time Mixer OO and labels-kRP0-HiH7
+download 273 visualize - frequency spectrum-odAzI2Mf3
+download 274 Beyonce End of Time Mixer OO and labels-1E8DEpJ7y
+download 275 2_play_many_sounds-w0cEo4waC
+download 276 visualize - waveform filled-R9sVV8wwf
+download 277 Bjork Mutual Core - Mixer-wYp2VZTfU
+download 278 Bon Iver - Mixer-7QjN9HPLu
+download 279 Bon Iver - Mixer copy-XVFZtxeRJ
+download 280 Beyonce End of Time Mixer copy-imDVQpihXr
+download 281 mic_1_waveform-GvS7O7if4
+download 282 visualize - frequency spectrum copy-tG3qpWI-H
+download 283 visualize - waveform filled circle copy-tiJ0vQDe
+download 284 visualize - waveform filled-jnextrr-a
+download 285 3_play_animation copy-n6h450XEt
+download 286 play a sound copy-3MO4n02zr
+download 287 play a sound copy-dR61Y2sEk
+download 288 play a sound copy-C7D9q0UGR
+download 289 2_play_many_sounds copy-Oneptmwt
+download 290 2_play_many_sounds copy-kcvyOs951
+download 291 play a sound copy-wBcg8rvos
+download 292 Mixer starter- Bon Iver tracks CLASS-Y48bKc644
+download 293 Mixer starter- Bon Iver tracks copy-ev3kFYL9F
+download 294 visualize - waveform filled copy-iXqFDRGYl
+download 295 Loops starter midpoint 3 copy-4Yx8uJwf5
+download 296 play one sound result copy-PY4HJ11lD
+download 297 play one sound result-dGSi42mm4
+download 298 music_rnn_generate copy-LzPz2X-SS
+download 299 CtrlMarkov Melody Learn copy-cmigHYtm0
+download 300 starter-ZbMF4qxAcB
+download 301 Markov drums starter copy-Ze2hgAfrw
+download 302 example for Yiqi-qmPBAdxA5
+download 303 接掉落的音符 pic good copy copy good copy copy-W0OZKdyJj
+download 304 Markov Harmony copy-Zxn1rShWL
+download 305 Markov drums starter copy-sa02yPDlK
+download 306 drone copy-5vBm7zw7H
+download 307 drone_melody_probability copy-OEVYBPW2x
+download 308 parallel_harmony copy-IetpJ-a-N
+download 309 tone starter copy copy-xf5rElbxF
+download 310 starter code for keys copy copy copy-QxX04qODe
+download 311 starter code for keys copy copy-p0w2HNee6
+download 312 starter code for keys copy copy-BXSUUK9Hs
+download 313 starter code for keys copy-PLwfxJoRb
+download 314 class-f1nXGbgmJ
+download 315 triads keyboard-Yp0S_OyA6
+download 316 keyboard-_h54zP-os
+download 317 drone_melody_probability copy copy-KeXmrB_xT
+download 318 Drone plus melody copy copy-RDFIr6hNe
+download 319 Drone plus melody copy copy copy-X65h4gST-
+download 320 Drone plus melody copy copy-0qe0i4Efn
+download 321 Drone plus melody with get pitch beyond one octave-0g11vw4G7
+download 322 Drone plus melody with getPitch-NoAIUzZPU
+download 323 Drone plus melody copy-ezvoBiG9W
+download 324 drone 2-LcY4NC51P
+download 325 drone 1-0V2wFAzbs
+download 326 starter copy-oxlLLZjXr
+download 327 4.3 melody study-darkest copy-FBxM2Oslw
+download 328 classs-oEdAqTpZ7
+download 329 pitches copy copy copy copy-EgwWJX97z
+download 330 gliding synth-Zs5SFoOwL
+download 331 pitches copy copy copy-F4eNU0mC2
+download 332 Filter with FFT visualization copy-44NizXzrq
+download 333 mic_2_FFT copy copy-l_LJimAoD
+download 334 mic_1_waveform copy-tAwxKJR1B
+download 335 class-OZBFAraOw
+download 336 Loop-g7r4bC-NF
+download 337 Part copy-c13rshxI-
+download 338 Sequence-gRgQsIa-u
+download 339 contour copy-jO64nb4-9
+download 340 Artistic countess-RfmNcdkZs
+download 341 midi pitches copy-IDia7oflI
+download 342 in class-SZr_s00Zr
+download 343 Loop copy-FrrYW_2gd
+download 344 Syncopation copy-lmx1L1tyG
+download 345 Pulse 1 copy-mSUNoK3Z9
+download 346 melody + meter-vynz3it3_
+download 347 scales copy-6aoZIVINY
+download 348 pitches copy copy copy copy-pV_duF6Zg
+download 349 random melody visualized copy-jHPzqeEvy
+download 350 test-kJG-RUBpF
+download 351 office hours sketch for wallis-j0vz90YIQ
+download 352 drum beat starter copy-V_EHZPG6E
+download 353 drum beat starter-bu1CaeeJO
+download 354 drum beat starter copy copy-m7C9zID6L
+download 355 drum beat starter copy-_erYRezYN
+download 356 drum kit pads-XfYp9WTCo
+download 357 visualize - frequency spectrum - mic input-lAXY_u2ps
+download 358 Loops user triggered quantized-n-la5VQm3
+download 359 Loops user triggered-jj9PDYrl
+download 360 Loops starter copy-ca-2nVzA8
+download 361 Mixer starter- Bon Iver tracks copy-ohbsdvlzy
+download 362 Loops starter midpoint copy-kb45RPyXZ
+download 363 Loops starter from class-0l1Q98nK3
+download 364 Mixer - Bon Iver tracks-otCeHUSUL
+download 365 Mixer starter- Bon Iver tracks copy copy copy-v8MXGSiA5
+download 366 kitchenv1 copy copy-HE8lU-yX5
+download 367 3_play_animation copy-qUYllbQcM
+download 368 2_play_many_sounds copy-R8-4auuOO
+download 369 play a sound copy-arJaMkkuw
+download 370 3_play_animation copy-FfJ1qvINm
+download 371 in class code-9Hi6QMa7vr
+download 372 panner example-ZFldgeTEK
+download 373 Mixer starter- Bon Iver tracks copy-xj1zfLkZI
+download 374 play a sound copy-j7q33CvMw
+download 375 David's arpeggio sandman instrument copy copy-cNMf8-0iA
+download 376 arpeggio sandman instrument copy copy-P6vgK1SgP
+download 377 melody_part copy-JQmCtdhC
+download 378 melody_loop copy-0rxzC6-ZK
+download 379 chord machine v2 copy-HhNxCBIyo
+download 380 melody_part copy-bY7p8TaH3
+download 381 reverb copy-7cFBFd6ok
+download 382 reverb copy-dtNG3HlCJ
+download 383 Timbre assignment (pitchShift and reverb) copy-Gov3GHxvZ
+download 384 pulse labels seconds copy-w1QvRewKs
+download 385 scales copy-qy1iOPaaQ
+download 386 夜空melody成功 copy-9mDdrGYif
+download 387 pulse labels seconds copy-aO2T2QtTG
+download 388 pitches copy copy-BOYPirNbC
+download 389 2 make a beat, add tempo slider copy-ZsOuAHpQL
+download 390 Ancient column-8l6YFno-w
+download 391 Animated GIFs copy copy-cfnOyH0q-
+download 392 instrumental xp by nicole-ORH8wpkBD
+download 393 play a sound copy-weCoKh2Xw
+download 394 in class code-kR9_MN4Oa
+download 395 starter copy-A33WMa2_-
+download 396 play a sound copy-19DmwtMcR
+download 397 MIDI_output_example 2022-6P9Ua0uhg
+download 398 2_play_many_sounds copy-7Hl_3kpEX
+download 399 Pewter canopy-9Gbs8DE3e
+download 400 Utopian frill-drsINY-UJ
+download 401 lucky GAN tune V2 copy-maDZB58RK
+download 402 Clever plain-OMk8xYHB9A
+download 403 1_oscillator different waves copy-HjwBXEj66
+download 404 music_rnn_input_format copy copy copy copy-BPrEGuYH7
+download 405 music_rnn_input_format copy-_ZpBJS7fb
+download 406 music_rnn_generate copy copy-vtAvDgBYz
+download 407 music_rnn_generate copy-4CbHggliO
+download 408 Part copy-dBuAEPSGW
+download 409 Part-HOsx9a1QK
+unzip 1 shake-QEM1tnYXE
+unzip 2 2_5_derive_equal_tempered_scales-iXq5gh4SG
+unzip 3 2_4_derive_pentatonic_scale-Agjy1M-S9
+unzip 4 2_3_pitch_set_keyboard-49z3U40Hl
+unzip 5 2_2_random_tones_within_pitch_set-n8cvmXT778
+unzip 6 2_1_random_tones_within_range-OVcoyLHKv
+unzip 7 2_1_leaping_tones-ikAmI3pT0
+unzip 8 2_0_1_instrument-HQrJd0Wag
+unzip 9 2_0_0_starter_code-KWiPisKid
+unzip 10 1_6_cross_rhythms-JHkYG8mdL
+unzip 11 1_5_syncopation-48LOVQa7u
+unzip 12 1_4_accents-or46Mib_O
+unzip 13 1_3_meter-ay9GU2TSQ
+unzip 14 1_2_2_tap_tempo-rb_GbwUmd
+unzip 15 1_2_1_tempo-yQ_JvTKtC
+unzip 16 1_1_pulse-uzDVX1Ymm
+unzip 17 1_0_starter_code-lyxKrogbZ
+unzip 18 1_9_loops_quantized-045PCv3_W
+unzip 19 1_8_loops_not_quantized-ay2K4eF5l
+unzip 20 1_7_loops_basic_scheduling-DYm-5g7SE
+unzip 21 1_6_mixer_effects_reverb-yiWKilVhD
+unzip 22 1_5_mixer_waveforms-JXNLO6ftn
+unzip 23 1_4_mixer_meters-NUdTTpoFW
+unzip 24 1_3_mixer_track_labels-jpApHFLIU
+unzip 25 1_2_mixer_sliders-Krie5RHHa
+[../../downloads/zips/1_2_mixer_sliders-Krie5RHHa.zip]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+[../../downloads/zips/1_2_mixer_sliders-Krie5RHHa.ZIP]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+unzip 26 1_1_mixer_starter-YDmSWppnT
+unzip 27 1_11_loops_record_mic-TcZKN-pc-
+unzip 28 1_10_loops_quantized_with_alts-EG5dh4BSF
+unzip 29 0_8_Mic_input_to_waveform-pyxMmgpFG
+unzip 30 0_7_FFT-xxVm4f7JL
+unzip 31 0_6_3_Waveform_circle-uWt4LPvdVC
+unzip 32 0_6_2_Waveform_fill-LJ5GXxgc_
+unzip 33 0_6_1_Waveform_stroke-HB5wHGzzb
+unzip 34 0_5_Amplitude-ibKI7AJ9H
+unzip 35 0_4_trigger_sounds_and_animate-_7LM1HbK1
+unzip 36 0_3_animate_following_playback_progress-qrg5xxiwW
+unzip 37 0_2_trigger_several_sounds-cjndUn09D
+unzip 38 0_1_play_sound-i-gBB5mx6
+unzip 39 2_1_random_tones_within_range-N0GebM2fy
+unzip 40 linear vs log mapping-RP8jXvjJf
+unzip 41 2_5_derive_equal_tempered_scales-Arnt7x0LW
+unzip 42 linear vs log mapping copy copy-6bviWtTiH
+unzip 43 linear vs log mapping copy copy-QlneEUGjQ
+unzip 44 Pattern-ErSuBCwCQ
+unzip 45 linear vs log mapping copy-XtbC5rDdc
+unzip 46 2_4_derive_pentatonic_scale-gPi64PR9A2
+unzip 47 Event copy-8VCEH4lkR
+unzip 48 scales copy-uIIZRWNJn
+unzip 49 random pitch sequences copy-Vcgb-721d
+unzip 50 2_0_starter_code-sP8aPuWu2
+unzip 51 2_5_derive_equal_tempered_scales-hKL7Q8Dkcg
+unzip 52 2_4_derive_pentatonic_scale-3QqxkL5GB
+unzip 53 2_3_pitch_set_keyboard-77D78ZFfkb
+unzip 54 2_2_random_tones_within_pitch_set-TKL3Lvwb9J
+unzip 55 2_1_random_tones_within_range-YLk8ddZ3n
+unzip 56 2_0_starter_code-ocXEgawYo
+unzip 57 1_6_cross_rhythms-6mqSfL2sm
+unzip 58 1_5_syncopation-jDmziRzQR
+unzip 59 1_4_accents-B-SEbtOqK0
+unzip 60 1_3_meter-BFSiebfvu
+unzip 61 1_2_2_tap_tempo-vwuBgSmom
+unzip 62 1_2_1_tempo-rBiGLlvgi
+unzip 63 1_1_pulse-dXQRla_js
+unzip 64 1_0_starter_code-fl6yNeyy5
+unzip 65 1_9_loops_quantized-CD6aWeM9Aq
+unzip 66 1_8_loops_not_quantized-hPfQPgh5K
+unzip 67 1_7_loops_basic_scheduling-mSqGEg_g5
+unzip 68 1_6_mixer_effects_reverb-pG0xr8YbtU
+unzip 69 1_5_mixer_waveforms-H4644lCRbQ
+unzip 70 1_4_mixer_meters-Fgtn_8MT
+unzip 71 1_3_mixer_track_labels-sZXgXdUB
+unzip 72 1_2_mixer_sliders-5bfaStPQTP
+[../../downloads/zips/1_2_mixer_sliders-5bfaStPQTP.zip]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+[../../downloads/zips/1_2_mixer_sliders-5bfaStPQTP.ZIP]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+unzip 73 1_1_mixer_starter-O098r5i-u
+unzip 74 1_11_loops_record_mic-FkhBj5lhc
+unzip 75 1_10_loops_quantized_with_alts-2QiFHVC_U
+unzip 76 0_8_Mic_input_to_waveform-RqoOx_onSV
+unzip 77 0_7_FFT-2NvxT9HDV
+unzip 78 0_6_3_Waveform_circle-CSLO9fHq2
+unzip 79 0_6_2_Waveform_fill-jf4JSUWRR
+unzip 80 0_6_1_Waveform_stroke-JQ9Jek3h5
+unzip 81 0_5_Amplitude-HXGKqZZ_U
+unzip 82 0_4_trigger_sounds_and_animate-yjGkW-aHt
+unzip 83 0_3_animate_following_playback_progress-p4On1XX4a
+unzip 84 0_2_trigger_several_sounds-cZtiSDhGL
+unzip 85 0_1_play_sound-SsgwtdTEl
+unzip 86 Cross-Rhythm copy-EO5iP5Nba
+unzip 87 6 make it interactive copy-wBrbmYSL_
+unzip 88 8_Mic_input_to_waveform-urN-kxi8tw
+unzip 89 7_FFT-dP5flwhO-
+unzip 90 6_3_Waveform_circle-yoRbNYJp-
+unzip 91 6_2_Waveform_fill-Uq_yrAsdb
+unzip 92 6_1_Waveform_stroke-aFXPx-bZ1
+unzip 93 5_Amplitude-FxT2N75Cm
+unzip 94 4_trigger_sounds_and_animate-2x6HeTJ2k
+unzip 95 3_animate_following_playback_progress-j9kLIR0_j
+unzip 96 2_trigger_several_sounds-DcH_kiE7v
+unzip 97 1_play_sound-HF4FEr-Lk
+unzip 98 5_Waveform-L_T8XGQzF
+unzip 99 3_Amplitude-rkDz6U34n
+unzip 100 2_FFT-IJUdVLOd
+unzip 101 1_Waveform-iNWMppm4v
+unzip 102 1_Waveform-qqMeoDqrj
+unzip 103 1_Waveform-yW886q84j
+unzip 104 1_Waveform-Q_R6Dya3q
+unzip 105 1_Waveform-aoMaKCe0u
+unzip 106 2_3_pitch_set_keyboard-35CosBzPpf
+unzip 107 2_2_random_tones_within_pitch_set-SnvLsD_Sq
+unzip 108 2_0_starter_code-VK0GKvUnA
+unzip 109 1_6_cross_rhythms-QG1bVSB27k
+unzip 110 1_5_syncopation-lmfnLB9wN
+unzip 111 1_4_accents-vG3twFPosh
+unzip 112 1_3_meter-uY74eaxct2
+unzip 113 1_2_2_tap_tempo-WhydCs53yV
+unzip 114 1_2_1_tempo-UYIELuoCx
+unzip 115 1_1_pulse-b3VTGFd_H
+unzip 116 1_0_starter_code-FxtCLGKD0
+unzip 117 4_trigger_sounds_and_animate-j2BgVkVlqM
+unzip 118 3_animate_following_playback_progress-FXAyn1o6H
+unzip 119 3_Amplitude-aWSSMq9jh
+unzip 120 2_trigger_several_sounds-ovOHtbel3
+unzip 121 2_FFT-DvkQdSPk3
+unzip 122 1_play_sound-Op290Hvel
+unzip 123 1_Waveform-ZYlllJGOl
+unzip 124 drum beat starter copy copy-DGhikvMFY
+unzip 125 drum beat starter copy-rXaI0QWKU
+unzip 126 tempo walk starter copy-sNoj8jtdE
+unzip 127 1_6_cross_rhythms-vtVoOphJVp
+unzip 128 1_5_syncopation-3usnKGumS
+unzip 129 1_4_accents-umQqQGpIh
+unzip 130 1_3_meter-llX7JKrNex
+unzip 131 1_2_2_tap_tempo-agp8TVHEgY
+unzip 132 1_2_1_tempo-P4gbHx0Dr
+unzip 133 1_1_pulse-iNkCjnrTu
+unzip 134 1_0_starter_code-RjgSYr1Rk
+unzip 135 1_6_cross_rhythms-yan7oULph0
+unzip 136 1_5_syncopation-AvLtqBEFk
+unzip 137 1_4_accents-VfFSuU4HE4
+unzip 138 1_3_meter-h0IGH-xjV
+unzip 139 1_2_2_tap_tempo-Np-if-p8t
+unzip 140 1_2_1_tempo-hAylUh8ws
+unzip 141 1_1_pulse-QefiwVpYq
+unzip 142 1_0_starter_code-GofPShVfZ
+unzip 143 1_6_cross_rhythms-AjqKA324yN
+unzip 144 1_5_syncopation-abkMEsCaoE
+unzip 145 1_4_accents-38kGbGLabq
+unzip 146 1_3_meter-wKUWRBcTB
+unzip 147 1_2_2_tap_tempo-xaHTR7DQJ
+unzip 148 1_2_1_tempo-u6hzbWVrV
+unzip 149 1_1_pulse-M7-d2h762
+unzip 150 1_0_starter_code-FzBYoyM5I
+unzip 151 1_6_cross_rhythms-A9y55PZPi
+unzip 152 1_5_syncopation-C7YBR-jTg
+unzip 153 1_4_accents-bb_lie-C9D
+unzip 154 1_3_meter-_TwP-yreg8
+unzip 155 1_2_2_tap_tempo-ftKf2SHXB6
+unzip 156 1_2_1_tempo-kR14Iayjj4
+unzip 157 1_1_pulse-8YbuaoUX8
+unzip 158 1_0_starter_code-1BlO01pMAl
+unzip 159 2_play_many_sounds copy-tqmR0AJTw
+unzip 160 1_play_sound-a17B4_c7x
+unzip 161 play a sound copy-aqaIIND-3
+unzip 162 play a sound copy-dV8Pb0s9K
+unzip 163 4_play_and_animate-Lmt3tXZAP
+unzip 164 Accents in class-rDKMyrHCf
+unzip 165 3 make a drum pattern starter-F5pvk8MVS
+unzip 166 Meter copy-zUAZeh4j8
+unzip 167 tap tempo-HNMbfKaB3
+unzip 168 drum beat starter copy-qBNG13s0
+unzip 169 pulse footstep with accents and measures-Hfyxq37k-
+unzip 170 pulse footstep with accents copy-R2g0F-9_s
+unzip 171 pulse footstep with accents-Y1eKh8svU
+unzip 172 pulse footstep with beat counting modullo-BzFggnPrP
+unzip 173 pulse footstep with bpm by hand-ZukodGTk2
+unzip 174 pulse-PQGI6a5T8
+unzip 175 tempo walk starter-57falXeqn
+unzip 176 drum beat starter-WzWSxxYub
+unzip 177 Beyonce End of Time Mixer-ibSDvtJVZ
+unzip 178 Loop Launcher - OO copy-AccpiAUEg
+unzip 179 Loop Launcher - OO-nrUjztGAG
+unzip 180 law of detachment copy-u1zJFsdeE
+unzip 181 2_ADSR_with_examples copy-bP5zHjHXd
+unzip 182 Past coast-VZqbEyLqb
+unzip 183 Mixer starter- Bon Iver tracks copy copy-vaQ2a3RYh
+unzip 184 Mixer starter- Bon Iver tracks copy-xy94f-lFx
+unzip 185 Mixer starter- Bon Iver tracks-6KHBNM37-
+unzip 186 visualize - FFT filled circle test-ikFJB_SB3
+unzip 187 Loops starter copy copy-1fwz18Mhq
+unzip 188 Loops starter copy-cwEfAJjZU
+unzip 189 visualize - waveform filled circle-uDhMc-dhK
+unzip 190 Bjork Mutual Core - Mixer with Waveform-1qoNg-ooV
+unzip 191 visualize - meter-kwk8N7GFd
+unzip 192 play a sound copy-XkKZTUM2O
+unzip 193 3_play_animation-IwqBmWS67
+unzip 194 starter for key presses copy-J1cgCSydL
+unzip 195 2_play_many_sounds copy-2WDTMKv6j
+unzip 196 2_play_many_sounds copy-IGCh68Esp
+unzip 197 play a sound copy-1kWiZ4Slx
+unzip 198 starter for key presses-2XTMXoxFT
+unzip 199 play a sound copy-riPmEx8jq
+unzip 200 starter copy-hTJ-VDxe9
+unzip 201 json score playback-VLGTuYcjW
+unzip 202 class pseudocode for josephine-WWJP3_sqo
+unzip 203 bingwen's code - office hours-BXt1zv4eR
+unzip 204 chords copy-WHsQrwCMY
+unzip 205 drone - chromatic scale-Tm1K6Us41
+unzip 206 generative drone from class, MIDI version-T_vXkoYqA
+unzip 207 tone starter-gSz5B0Lzu
+unzip 208 drone - within subset-JmfZe62t1
+unzip 209 drone - looped with silences-aPqilG14a
+unzip 210 drone - looped-rTJU6-Z9T
+unzip 211 drone within scale-Wtiy30giS
+unzip 212 For Jasmine Tremolo-EqkIZDS6D
+unzip 213 Mirette's Timbre Study copy-UbAHPthHX
+unzip 214 Jasmine's 5.3 timbre copy-kap4DMAl6
+unzip 215 Jasmine's 5.3 timbre-O6uwUtwIV
+unzip 216 Timbre Study copy-WHEjODnJV
+unzip 217 Filter with FFT visualization copy-toZ9lLEKW
+unzip 218 Waveforms copy-cydcBDTs0
+unzip 219 Waveforms copy-v-1RQQ8NR
+unzip 220 Filter envelope copy-rfhDRsgJ
+unzip 221 Starter copy-rG-zSHez-
+unzip 222 ADSR array copy-trSUptpND
+unzip 223 harmonics copy-RoLQnVEOm
+unzip 224 empty starter copy-uC1-F4c2s
+unzip 225 Spot dogsled-bRLOaxnCp
+unzip 226 Open rover-3ZPlKUL0C
+unzip 227 in class 2 - currentStep based on Tone position-zzIfp2hzM
+unzip 228 in class-YxI8PyEpp
+unzip 229 3.4 Interactive rhythm final copy-vFtUDpjrv
+unzip 230 3.4 copy-jNvGZ6ndj
+unzip 231 Mirette's 3.4 Interactive rhythm final copy-0mykugcp9
+unzip 232 3.4 Interactive rhythm final copy-RQb6htCYw
+unzip 233 3.4 copy-BPwfBP_Ue
+unzip 234 4_trigger_sounds_and_animate-na1nz4-R7
+unzip 235 3_animate_following_playback_progress-nsQsWRR2X
+unzip 236 2_trigger_several_sounds-KD2aif6JX
+unzip 237 4_trigger_sounds_and_animate-Joee5LECoK
+unzip 238 3_animate_following_playback_progress-TYlebqMyi
+unzip 239 2_trigger_several_sounds-_D76byZri
+unzip 240 1_play_sound-nYcPnBERE
+unzip 241 Interactive Composition-8k7OmNb0y
+[../../downloads/zips/Interactive Composition-8k7OmNb0y.zip]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+[../../downloads/zips/Interactive Composition-8k7OmNb0y.ZIP]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+unzip 242 AV Instrument-8UdODC1Tc
+[../../downloads/zips/AV Instrument-8UdODC1Tc.zip]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+[../../downloads/zips/AV Instrument-8UdODC1Tc.ZIP]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+unzip 243 Pulse walking steps-yPrI77tIZ
+unzip 244 2 make a beat, add tempo slider-LEaODZJkI
+unzip 245 drum beat starter copy-A6r3OSds3
+unzip 246 tempo walk starter copy copy-A86W4n9V7
+unzip 247 tempo walk starter copy-xjMP5bXRp
+unzip 248 4 make a drum machine, using a matrix-X6W7IHAGe
+unzip 249 4 make a drum machine, using a matrix-m93FSTiNR
+unzip 250 4 make a drum machine-3no6uILub
+unzip 251 3 make a drum pattern-srAp7xgob
+unzip 252 3 make a drum pattern-9KKeBmlyH
+unzip 253 3 make a drum pattern copy copy copy-2BzM-l5TK
+unzip 254 2 make a beat, add tempo slider copy-1uIYSy3Jx
+unzip 255 2 make a beat, add tempo slider copy-NK5n1HtvL
+unzip 256 2 make a beat copy-Dq0wS1e2d
+unzip 257 Accents-M-N5COMAs
+unzip 258 Tempo Speed copy-H_NdCgKru
+unzip 259 pulse-ZlJETo-SY
+unzip 260 tap tempo copy - TO DELETE-nuW3i8z3J
+unzip 261 Beyonce End of Time Mixer copy-F1NlHPGgA
+unzip 262 drum pad-PBb9ytNaR
+unzip 263 visualize - meter copy copy-0rVvzntt8
+unzip 264 3_play_animation copy-iae9z16GU
+unzip 265 code of music 1.1 copy-ptvjNf2q_
+unzip 266 Loops starter midpoint 5-0WXkqnL9Z
+unzip 267 Loops starter midpoint 3-GaXfjY57A
+unzip 268 Loops starter midpoint 2-63rjLWUVC
+unzip 269 reverb-f8TbfaHuJ
+unzip 270 Beyonce End of Time Mixer OO and labels-F3VXJsTkM
+unzip 271 Beyonce End of Time Mixer OO and labels copy copy-EZoar317ex
+unzip 272 Beyonce End of Time Mixer OO and labels-kRP0-HiH7
+unzip 273 visualize - frequency spectrum-odAzI2Mf3
+unzip 274 Beyonce End of Time Mixer OO and labels-1E8DEpJ7y
+unzip 275 2_play_many_sounds-w0cEo4waC
+unzip 276 visualize - waveform filled-R9sVV8wwf
+unzip 277 Bjork Mutual Core - Mixer-wYp2VZTfU
+unzip 278 Bon Iver - Mixer-7QjN9HPLu
+unzip 279 Bon Iver - Mixer copy-XVFZtxeRJ
+unzip 280 Beyonce End of Time Mixer copy-imDVQpihXr
+unzip 281 mic_1_waveform-GvS7O7if4
+unzip 282 visualize - frequency spectrum copy-tG3qpWI-H
+unzip 283 visualize - waveform filled circle copy-tiJ0vQDe
+unzip 284 visualize - waveform filled-jnextrr-a
+unzip 285 3_play_animation copy-n6h450XEt
+unzip 286 play a sound copy-3MO4n02zr
+unzip 287 play a sound copy-dR61Y2sEk
+unzip 288 play a sound copy-C7D9q0UGR
+unzip 289 2_play_many_sounds copy-Oneptmwt
+unzip 290 2_play_many_sounds copy-kcvyOs951
+unzip 291 play a sound copy-wBcg8rvos
+unzip 292 Mixer starter- Bon Iver tracks CLASS-Y48bKc644
+unzip 293 Mixer starter- Bon Iver tracks copy-ev3kFYL9F
+unzip 294 visualize - waveform filled copy-iXqFDRGYl
+unzip 295 Loops starter midpoint 3 copy-4Yx8uJwf5
+unzip 296 play one sound result copy-PY4HJ11lD
+unzip 297 play one sound result-dGSi42mm4
+unzip 298 music_rnn_generate copy-LzPz2X-SS
+unzip 299 CtrlMarkov Melody Learn copy-cmigHYtm0
+unzip 300 starter-ZbMF4qxAcB
+unzip 301 Markov drums starter copy-Ze2hgAfrw
+unzip 302 example for Yiqi-qmPBAdxA5
+unzip 303 接掉落的音符 pic good copy copy good copy copy-W0OZKdyJj
+unzip 304 Markov Harmony copy-Zxn1rShWL
+unzip 305 Markov drums starter copy-sa02yPDlK
+unzip 306 drone copy-5vBm7zw7H
+unzip 307 drone_melody_probability copy-OEVYBPW2x
+unzip 308 parallel_harmony copy-IetpJ-a-N
+unzip 309 tone starter copy copy-xf5rElbxF
+unzip 310 starter code for keys copy copy copy-QxX04qODe
+unzip 311 starter code for keys copy copy-p0w2HNee6
+unzip 312 starter code for keys copy copy-BXSUUK9Hs
+unzip 313 starter code for keys copy-PLwfxJoRb
+unzip 314 class-f1nXGbgmJ
+unzip 315 triads keyboard-Yp0S_OyA6
+unzip 316 keyboard-_h54zP-os
+unzip 317 drone_melody_probability copy copy-KeXmrB_xT
+unzip 318 Drone plus melody copy copy-RDFIr6hNe
+unzip 319 Drone plus melody copy copy copy-X65h4gST-
+unzip 320 Drone plus melody copy copy-0qe0i4Efn
+unzip 321 Drone plus melody with get pitch beyond one octave-0g11vw4G7
+unzip 322 Drone plus melody with getPitch-NoAIUzZPU
+unzip 323 Drone plus melody copy-ezvoBiG9W
+unzip 324 drone 2-LcY4NC51P
+unzip 325 drone 1-0V2wFAzbs
+unzip 326 starter copy-oxlLLZjXr
+unzip 327 4.3 melody study-darkest copy-FBxM2Oslw
+unzip 328 classs-oEdAqTpZ7
+unzip 329 pitches copy copy copy copy-EgwWJX97z
+unzip 330 gliding synth-Zs5SFoOwL
+unzip 331 pitches copy copy copy-F4eNU0mC2
+unzip 332 Filter with FFT visualization copy-44NizXzrq
+unzip 333 mic_2_FFT copy copy-l_LJimAoD
+unzip 334 mic_1_waveform copy-tAwxKJR1B
+unzip 335 class-OZBFAraOw
+unzip 336 Loop-g7r4bC-NF
+unzip 337 Part copy-c13rshxI-
+unzip 338 Sequence-gRgQsIa-u
+unzip 339 contour copy-jO64nb4-9
+unzip 340 Artistic countess-RfmNcdkZs
+unzip 341 midi pitches copy-IDia7oflI
+unzip 342 in class-SZr_s00Zr
+unzip 343 Loop copy-FrrYW_2gd
+unzip 344 Syncopation copy-lmx1L1tyG
+unzip 345 Pulse 1 copy-mSUNoK3Z9
+unzip 346 melody + meter-vynz3it3_
+unzip 347 scales copy-6aoZIVINY
+unzip 348 pitches copy copy copy copy-pV_duF6Zg
+unzip 349 random melody visualized copy-jHPzqeEvy
+unzip 350 test-kJG-RUBpF
+unzip 351 office hours sketch for wallis-j0vz90YIQ
+unzip 352 drum beat starter copy-V_EHZPG6E
+unzip 353 drum beat starter-bu1CaeeJO
+unzip 354 drum beat starter copy copy-m7C9zID6L
+unzip 355 drum beat starter copy-_erYRezYN
+unzip 356 drum kit pads-XfYp9WTCo
+unzip 357 visualize - frequency spectrum - mic input-lAXY_u2ps
+unzip 358 Loops user triggered quantized-n-la5VQm3
+unzip 359 Loops user triggered-jj9PDYrl
+unzip 360 Loops starter copy-ca-2nVzA8
+unzip 361 Mixer starter- Bon Iver tracks copy-ohbsdvlzy
+unzip 362 Loops starter midpoint copy-kb45RPyXZ
+unzip 363 Loops starter from class-0l1Q98nK3
+unzip 364 Mixer - Bon Iver tracks-otCeHUSUL
+unzip 365 Mixer starter- Bon Iver tracks copy copy copy-v8MXGSiA5
+unzip 366 kitchenv1 copy copy-HE8lU-yX5
+unzip 367 3_play_animation copy-qUYllbQcM
+unzip 368 2_play_many_sounds copy-R8-4auuOO
+unzip 369 play a sound copy-arJaMkkuw
+unzip 370 3_play_animation copy-FfJ1qvINm
+unzip 371 in class code-9Hi6QMa7vr
+unzip 372 panner example-ZFldgeTEK
+unzip 373 Mixer starter- Bon Iver tracks copy-xj1zfLkZI
+unzip 374 play a sound copy-j7q33CvMw
+unzip 375 David's arpeggio sandman instrument copy copy-cNMf8-0iA
+unzip 376 arpeggio sandman instrument copy copy-P6vgK1SgP
+unzip 377 melody_part copy-JQmCtdhC
+unzip 378 melody_loop copy-0rxzC6-ZK
+unzip 379 chord machine v2 copy-HhNxCBIyo
+unzip 380 melody_part copy-bY7p8TaH3
+unzip 381 reverb copy-7cFBFd6ok
+unzip 382 reverb copy-dtNG3HlCJ
+unzip 383 Timbre assignment (pitchShift and reverb) copy-Gov3GHxvZ
+unzip 384 pulse labels seconds copy-w1QvRewKs
+unzip 385 scales copy-qy1iOPaaQ
+unzip 386 夜空melody成功 copy-9mDdrGYif
+unzip 387 pulse labels seconds copy-aO2T2QtTG
+unzip 388 pitches copy copy-BOYPirNbC
+unzip 389 2 make a beat, add tempo slider copy-ZsOuAHpQL
+unzip 390 Ancient column-8l6YFno-w
+unzip 391 Animated GIFs copy copy-cfnOyH0q-
+unzip 392 instrumental xp by nicole-ORH8wpkBD
+unzip 393 play a sound copy-weCoKh2Xw
+unzip 394 in class code-kR9_MN4Oa
+unzip 395 starter copy-A33WMa2_-
+unzip 396 play a sound copy-19DmwtMcR
+unzip 397 MIDI_output_example 2022-6P9Ua0uhg
+unzip 398 2_play_many_sounds copy-7Hl_3kpEX
+unzip 399 Pewter canopy-9Gbs8DE3e
+unzip 400 Utopian frill-drsINY-UJ
+unzip 401 lucky GAN tune V2 copy-maDZB58RK
+unzip 402 Clever plain-OMk8xYHB9A
+unzip 403 1_oscillator different waves copy-HjwBXEj66
+unzip 404 music_rnn_input_format copy copy copy copy-BPrEGuYH7
+unzip 405 music_rnn_input_format copy-_ZpBJS7fb
+unzip 406 music_rnn_generate copy copy-vtAvDgBYz
+unzip 407 music_rnn_generate copy-4CbHggliO
+unzip 408 Part copy-dBuAEPSGW
+unzip 409 Part-HOsx9a1QK
+indexed n 409
+
+jht2@jht2-mbp-n2 p5mirror-luisa_NYU % 
