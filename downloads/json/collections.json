@@ -1,0 +1,1256 @@
+[
+  {
+    "_id": "ITffB7g0N",
+    "name": "com bk drafts",
+    "owner": {
+      "_id": "6261a0988f0aff0021ab2213",
+      "username": "luisa_NYU",
+      "id": "6261a0988f0aff0021ab2213"
+    },
+    "description": "",
+    "slug": "com_bk_drafts",
+    "items": [
+      {
+        "_id": "654509ea0c09b6001c7d361e",
+        "project": {
+          "_id": "yPrI77tIZ",
+          "name": "Pulse: walking steps",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Pulse_0_copy_copy_copy",
+          "id": "yPrI77tIZ"
+        },
+        "createdAt": "2023-11-03T14:55:38.635Z",
+        "updatedAt": "2023-11-03T14:55:38.635Z",
+        "id": "654509ea0c09b6001c7d361e",
+        "projectId": "yPrI77tIZ",
+        "isDeleted": false
+      },
+      {
+        "_id": "65cbc72c47a196001a625f12",
+        "project": {
+          "_id": "XfYp9WTCo",
+          "name": "drum kit pads",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "drum_beat_starter_copy",
+          "id": "XfYp9WTCo"
+        },
+        "createdAt": "2024-02-13T19:46:52.860Z",
+        "updatedAt": "2024-02-13T19:46:52.860Z",
+        "id": "65cbc72c47a196001a625f12",
+        "projectId": "XfYp9WTCo",
+        "isDeleted": false
+      },
+      {
+        "_id": "65de643f231b9b001b7b53be",
+        "project": {
+          "_id": "vynz3it3_",
+          "name": "melody + meter",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Ink_cat",
+          "id": "vynz3it3_"
+        },
+        "createdAt": "2024-02-27T22:37:51.931Z",
+        "updatedAt": "2024-02-27T22:37:51.931Z",
+        "id": "65de643f231b9b001b7b53be",
+        "projectId": "vynz3it3_",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "wYp2VZTfU",
+          "name": "Bjork Mutual Core - Mixer",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Bjork_Mutual_Core_-_Mixer_copy_copy",
+          "id": "wYp2VZTfU"
+        },
+        "_id": "66e8583cf809bb059c93fd79",
+        "createdAt": "2024-09-16T16:09:32.145Z",
+        "updatedAt": "2024-09-16T16:09:32.145Z",
+        "id": "66e8583cf809bb059c93fd79",
+        "projectId": "wYp2VZTfU",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "7QjN9HPLu",
+          "name": "Bon Iver - Mixer",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Bon_Iver_-_Mixer_copy",
+          "id": "7QjN9HPLu"
+        },
+        "_id": "66e85849cec261d39f38ba11",
+        "createdAt": "2024-09-16T16:09:45.056Z",
+        "updatedAt": "2024-09-16T16:09:45.056Z",
+        "id": "66e85849cec261d39f38ba11",
+        "projectId": "7QjN9HPLu",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "ibSDvtJVZ",
+          "name": "Beyonce End of Time Mixer",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Beyonce_End_of_Time_Mixer_copy",
+          "id": "ibSDvtJVZ"
+        },
+        "_id": "66e85850cec261d39f38bb57",
+        "createdAt": "2024-09-16T16:09:52.296Z",
+        "updatedAt": "2024-09-16T16:09:52.296Z",
+        "id": "66e85850cec261d39f38bb57",
+        "projectId": "ibSDvtJVZ",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "GvS7O7if4",
+          "name": "mic_1_waveform",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "mic_1_waveform_copy",
+          "id": "GvS7O7if4"
+        },
+        "_id": "66e8585acec261d39f38c2ca",
+        "createdAt": "2024-09-16T16:10:02.369Z",
+        "updatedAt": "2024-09-16T16:10:02.369Z",
+        "id": "66e8585acec261d39f38c2ca",
+        "projectId": "GvS7O7if4",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "odAzI2Mf3",
+          "name": "visualize - frequency spectrum",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "visualize_-_frequency_spectrum_copy",
+          "id": "odAzI2Mf3"
+        },
+        "_id": "66e8585fcec261d39f38c3f1",
+        "createdAt": "2024-09-16T16:10:07.819Z",
+        "updatedAt": "2024-09-16T16:10:07.819Z",
+        "id": "66e8585fcec261d39f38c3f1",
+        "projectId": "odAzI2Mf3",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "kwk8N7GFd",
+          "name": "visualize - meter",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "visualize_-_meter_copy",
+          "id": "kwk8N7GFd"
+        },
+        "_id": "66e85866abb75dc4a838aa27",
+        "createdAt": "2024-09-16T16:10:14.057Z",
+        "updatedAt": "2024-09-16T16:10:14.057Z",
+        "id": "66e85866abb75dc4a838aa27",
+        "projectId": "kwk8N7GFd",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "R9sVV8wwf",
+          "name": "visualize - waveform filled",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "visualize_-_waveform_filled_copy",
+          "id": "R9sVV8wwf"
+        },
+        "_id": "66e8587b88f1ce53a3829116",
+        "createdAt": "2024-09-16T16:10:35.453Z",
+        "updatedAt": "2024-09-16T16:10:35.453Z",
+        "id": "66e8587b88f1ce53a3829116",
+        "projectId": "R9sVV8wwf",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "n6h450XEt",
+          "name": "3_play_animation copy",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "3_play_animation_copy",
+          "id": "n6h450XEt"
+        },
+        "_id": "66e8588788f1ce53a382997e",
+        "createdAt": "2024-09-16T16:10:47.550Z",
+        "updatedAt": "2024-09-16T16:10:47.550Z",
+        "id": "66e8588788f1ce53a382997e",
+        "projectId": "n6h450XEt",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "3MO4n02zr",
+          "name": "play a sound copy",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "play_a_sound_copy",
+          "id": "3MO4n02zr"
+        },
+        "_id": "66e8588ecec261d39f38d1c6",
+        "createdAt": "2024-09-16T16:10:54.153Z",
+        "updatedAt": "2024-09-16T16:10:54.153Z",
+        "id": "66e8588ecec261d39f38d1c6",
+        "projectId": "3MO4n02zr",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "w0cEo4waC",
+          "name": "2_play_many_sounds",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "2_play_many_sounds_copy",
+          "id": "w0cEo4waC"
+        },
+        "_id": "66e8589aabb75dc4a838bb68",
+        "createdAt": "2024-09-16T16:11:06.137Z",
+        "updatedAt": "2024-09-16T16:11:06.137Z",
+        "id": "66e8589aabb75dc4a838bb68",
+        "projectId": "w0cEo4waC",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "f8TbfaHuJ",
+          "name": "reverb",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "reverb_copy",
+          "id": "f8TbfaHuJ"
+        },
+        "_id": "66e858cfcec261d39f38e85e",
+        "createdAt": "2024-09-16T16:11:59.983Z",
+        "updatedAt": "2024-09-16T16:11:59.983Z",
+        "id": "66e858cfcec261d39f38e85e",
+        "projectId": "f8TbfaHuJ",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "kRP0-HiH7",
+          "name": "Beyonce End of Time Mixer OO and labels",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Beyonce_End_of_Time_Mixer_OO_and_labels_copy",
+          "id": "kRP0-HiH7"
+        },
+        "_id": "66e859a4abb75dc4a8391c5b",
+        "createdAt": "2024-09-16T16:15:32.305Z",
+        "updatedAt": "2024-09-16T16:15:32.305Z",
+        "id": "66e859a4abb75dc4a8391c5b",
+        "projectId": "kRP0-HiH7",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "F3VXJsTkM",
+          "name": "Beyonce End of Time Mixer OO and labels",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Beyonce_End_of_Time_Mixer_OO_and_labels_copy_copy",
+          "id": "F3VXJsTkM"
+        },
+        "_id": "66e859f5f809bb059c94a86b",
+        "createdAt": "2024-09-16T16:16:53.752Z",
+        "updatedAt": "2024-09-16T16:16:53.752Z",
+        "id": "66e859f5f809bb059c94a86b",
+        "projectId": "F3VXJsTkM",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "1qoNg-ooV",
+          "name": "Bjork Mutual Core - Mixer with Waveform",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Bjork_Mutual_Core_-_Mixer_with_Waveform_copy",
+          "id": "1qoNg-ooV"
+        },
+        "_id": "66e85a28abb75dc4a8396d38",
+        "createdAt": "2024-09-16T16:17:44.187Z",
+        "updatedAt": "2024-09-16T16:17:44.187Z",
+        "id": "66e85a28abb75dc4a8396d38",
+        "projectId": "1qoNg-ooV",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "63rjLWUVC",
+          "name": "Loops starter midpoint 2",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Loops_starter_midpoint_2_copy",
+          "id": "63rjLWUVC"
+        },
+        "_id": "66e85bad88f1ce53a38451d3",
+        "createdAt": "2024-09-16T16:24:13.867Z",
+        "updatedAt": "2024-09-16T16:24:13.867Z",
+        "id": "66e85bad88f1ce53a38451d3",
+        "projectId": "63rjLWUVC",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "GaXfjY57A",
+          "name": "Loops starter midpoint 3",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Loops_starter_midpoint_3_copy",
+          "id": "GaXfjY57A"
+        },
+        "_id": "66e85bd39ca981a50ab86ac5",
+        "createdAt": "2024-09-16T16:24:51.879Z",
+        "updatedAt": "2024-09-16T16:24:51.879Z",
+        "id": "66e85bd39ca981a50ab86ac5",
+        "projectId": "GaXfjY57A",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "0WXkqnL9Z",
+          "name": "Loops starter midpoint 5",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Loops_starter_midpoint_5_copy",
+          "id": "0WXkqnL9Z"
+        },
+        "_id": "66e85c1302fb53e5e5ce67e2",
+        "createdAt": "2024-09-16T16:25:55.036Z",
+        "updatedAt": "2024-09-16T16:25:55.036Z",
+        "id": "66e85c1302fb53e5e5ce67e2",
+        "projectId": "0WXkqnL9Z",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "nrUjztGAG",
+          "name": "Loop Launcher - OO",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Loop_Launcher_-_OO_copy",
+          "id": "nrUjztGAG"
+        },
+        "_id": "66e85c5d02fb53e5e5cea2c5",
+        "createdAt": "2024-09-16T16:27:09.359Z",
+        "updatedAt": "2024-09-16T16:27:09.359Z",
+        "id": "66e85c5d02fb53e5e5cea2c5",
+        "projectId": "nrUjztGAG",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "PBb9ytNaR",
+          "name": "drum pad",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_make_a_drum_pad_copy",
+          "id": "PBb9ytNaR"
+        },
+        "_id": "66edb06324e1d4f7c15feeb9",
+        "createdAt": "2024-09-20T17:26:59.519Z",
+        "updatedAt": "2024-09-20T17:26:59.519Z",
+        "id": "66edb06324e1d4f7c15feeb9",
+        "projectId": "PBb9ytNaR",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "ZlJETo-SY",
+          "name": "pulse",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Pulse_0_copy_copy_copy_copy",
+          "id": "ZlJETo-SY"
+        },
+        "_id": "66edb2fb24e1d4f7c1619bb3",
+        "createdAt": "2024-09-20T17:38:03.258Z",
+        "updatedAt": "2024-09-20T17:38:03.258Z",
+        "id": "66edb2fb24e1d4f7c1619bb3",
+        "projectId": "ZlJETo-SY",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "M-N5COMAs",
+          "name": "Accents",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "Accents_copy",
+          "id": "M-N5COMAs"
+        },
+        "_id": "66f2d5aacf4b3f6361b730f0",
+        "createdAt": "2024-09-24T15:07:22.077Z",
+        "updatedAt": "2024-09-24T15:07:22.077Z",
+        "id": "66f2d5aacf4b3f6361b730f0",
+        "projectId": "M-N5COMAs",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2023-11-03T14:55:10.660Z",
+    "updatedAt": "2024-09-24T15:07:22.077Z",
+    "__v": 32,
+    "id": "ITffB7g0N"
+  },
+  {
+    "_id": "-Uku0lQyEe",
+    "name": "harmony-examples",
+    "slug": "harmony-examples",
+    "owner": {
+      "_id": "6261a0988f0aff0021ab2213",
+      "username": "luisa_NYU",
+      "id": "6261a0988f0aff0021ab2213"
+    },
+    "items": [],
+    "createdAt": "2025-02-28T18:41:24.734Z",
+    "updatedAt": "2025-02-28T18:41:24.734Z",
+    "__v": 0,
+    "id": "-Uku0lQyEe"
+  },
+  {
+    "_id": "_qxPlDhHb",
+    "name": "introduction-examples",
+    "slug": "introduction-examples",
+    "owner": {
+      "_id": "6261a0988f0aff0021ab2213",
+      "username": "luisa_NYU",
+      "id": "6261a0988f0aff0021ab2213"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "i-gBB5mx6",
+          "name": "0_1_play_sound",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "0_1_play_sound",
+          "id": "i-gBB5mx6"
+        },
+        "_id": "67c205a097555a28ebef666e",
+        "createdAt": "2025-02-28T18:51:12.354Z",
+        "updatedAt": "2025-02-28T18:51:12.354Z",
+        "id": "67c205a097555a28ebef666e",
+        "projectId": "i-gBB5mx6",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "cjndUn09D",
+          "name": "0_2_trigger_several_sounds",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "0_2_trigger_several_sounds",
+          "id": "cjndUn09D"
+        },
+        "_id": "67c205a1f475ca6c68aa87bf",
+        "createdAt": "2025-02-28T18:51:13.871Z",
+        "updatedAt": "2025-02-28T18:51:13.871Z",
+        "id": "67c205a1f475ca6c68aa87bf",
+        "projectId": "cjndUn09D",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "qrg5xxiwW",
+          "name": "0_3_animate_following_playback_progress",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "0_3_animate_following_playback_progress",
+          "id": "qrg5xxiwW"
+        },
+        "_id": "67c205a2308d1fd455642e4c",
+        "createdAt": "2025-02-28T18:51:14.392Z",
+        "updatedAt": "2025-02-28T18:51:14.392Z",
+        "id": "67c205a2308d1fd455642e4c",
+        "projectId": "qrg5xxiwW",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "_7LM1HbK1",
+          "name": "0_4_trigger_sounds_and_animate",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "0_4_trigger_sounds_and_animate",
+          "id": "_7LM1HbK1"
+        },
+        "_id": "67c205a3f475ca6c68aa885c",
+        "createdAt": "2025-02-28T18:51:15.764Z",
+        "updatedAt": "2025-02-28T18:51:15.764Z",
+        "id": "67c205a3f475ca6c68aa885c",
+        "projectId": "_7LM1HbK1",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "ibKI7AJ9H",
+          "name": "0_5_Amplitude",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "0_5_Amplitude",
+          "id": "ibKI7AJ9H"
+        },
+        "_id": "67c205a4f475ca6c68aa888f",
+        "createdAt": "2025-02-28T18:51:16.418Z",
+        "updatedAt": "2025-02-28T18:51:16.418Z",
+        "id": "67c205a4f475ca6c68aa888f",
+        "projectId": "ibKI7AJ9H",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "HB5wHGzzb",
+          "name": "0_6_1_Waveform_stroke",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "0_6_1_Waveform_stroke",
+          "id": "HB5wHGzzb"
+        },
+        "_id": "67c205a497555a28ebef6756",
+        "createdAt": "2025-02-28T18:51:16.831Z",
+        "updatedAt": "2025-02-28T18:51:16.831Z",
+        "id": "67c205a497555a28ebef6756",
+        "projectId": "HB5wHGzzb",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "LJ5GXxgc_",
+          "name": "0_6_2_Waveform_fill",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "0_6_2_Waveform_fill",
+          "id": "LJ5GXxgc_"
+        },
+        "_id": "67c205a5308d1fd455642eb4",
+        "createdAt": "2025-02-28T18:51:17.245Z",
+        "updatedAt": "2025-02-28T18:51:17.245Z",
+        "id": "67c205a5308d1fd455642eb4",
+        "projectId": "LJ5GXxgc_",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "uWt4LPvdVC",
+          "name": "0_6_3_Waveform_circle",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "0_6_3_Waveform_circle",
+          "id": "uWt4LPvdVC"
+        },
+        "_id": "67c205a5308d1fd455642ecd",
+        "createdAt": "2025-02-28T18:51:17.677Z",
+        "updatedAt": "2025-02-28T18:51:17.677Z",
+        "id": "67c205a5308d1fd455642ecd",
+        "projectId": "uWt4LPvdVC",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "xxVm4f7JL",
+          "name": "0_7_FFT",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "0_7_FFT",
+          "id": "xxVm4f7JL"
+        },
+        "_id": "67c205a6308d1fd455642f70",
+        "createdAt": "2025-02-28T18:51:18.146Z",
+        "updatedAt": "2025-02-28T18:51:18.146Z",
+        "id": "67c205a6308d1fd455642f70",
+        "projectId": "xxVm4f7JL",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "pyxMmgpFG",
+          "name": "0_8_Mic_input_to_waveform",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "0_8_Mic_input_to_waveform",
+          "id": "pyxMmgpFG"
+        },
+        "_id": "67c205a6308d1fd455642f88",
+        "createdAt": "2025-02-28T18:51:18.319Z",
+        "updatedAt": "2025-02-28T18:51:18.319Z",
+        "id": "67c205a6308d1fd455642f88",
+        "projectId": "pyxMmgpFG",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "EG5dh4BSF",
+          "name": "1_10_loops_quantized_with_alts",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_10_loops_quantized_with_alts",
+          "id": "EG5dh4BSF"
+        },
+        "_id": "67c205a9308d1fd455643000",
+        "createdAt": "2025-02-28T18:51:21.170Z",
+        "updatedAt": "2025-02-28T18:51:21.170Z",
+        "id": "67c205a9308d1fd455643000",
+        "projectId": "EG5dh4BSF",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "TcZKN-pc-",
+          "name": "1_11_loops_record_mic",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_11_loops_record_mic",
+          "id": "TcZKN-pc-"
+        },
+        "_id": "67c205a933ea9166d0014b2e",
+        "createdAt": "2025-02-28T18:51:21.366Z",
+        "updatedAt": "2025-02-28T18:51:21.366Z",
+        "id": "67c205a933ea9166d0014b2e",
+        "projectId": "TcZKN-pc-",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "YDmSWppnT",
+          "name": "1_1_mixer_starter",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_1_mixer_starter",
+          "id": "YDmSWppnT"
+        },
+        "_id": "67c205aaf475ca6c68aa8a12",
+        "createdAt": "2025-02-28T18:51:22.984Z",
+        "updatedAt": "2025-02-28T18:51:22.984Z",
+        "id": "67c205aaf475ca6c68aa8a12",
+        "projectId": "YDmSWppnT",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Krie5RHHa",
+          "name": "1_2_mixer_sliders",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_2_mixer_sliders",
+          "id": "Krie5RHHa"
+        },
+        "_id": "67c205b097555a28ebef7157",
+        "createdAt": "2025-02-28T18:51:28.618Z",
+        "updatedAt": "2025-02-28T18:51:28.618Z",
+        "id": "67c205b097555a28ebef7157",
+        "projectId": "Krie5RHHa",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "jpApHFLIU",
+          "name": "1_3_mixer_track_labels",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_3_mixer_track_labels",
+          "id": "jpApHFLIU"
+        },
+        "_id": "67c205b0308d1fd4556434c8",
+        "createdAt": "2025-02-28T18:51:28.813Z",
+        "updatedAt": "2025-02-28T18:51:28.813Z",
+        "id": "67c205b0308d1fd4556434c8",
+        "projectId": "jpApHFLIU",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "NUdTTpoFW",
+          "name": "1_4_mixer_meters",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_4_mixer_meters",
+          "id": "NUdTTpoFW"
+        },
+        "_id": "67c205b0f475ca6c68aa8ee1",
+        "createdAt": "2025-02-28T18:51:28.986Z",
+        "updatedAt": "2025-02-28T18:51:28.986Z",
+        "id": "67c205b0f475ca6c68aa8ee1",
+        "projectId": "NUdTTpoFW",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "JXNLO6ftn",
+          "name": "1_5_mixer_waveforms",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_5_mixer_waveforms",
+          "id": "JXNLO6ftn"
+        },
+        "_id": "67c205b1308d1fd4556434f5",
+        "createdAt": "2025-02-28T18:51:29.174Z",
+        "updatedAt": "2025-02-28T18:51:29.174Z",
+        "id": "67c205b1308d1fd4556434f5",
+        "projectId": "JXNLO6ftn",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "yiWKilVhD",
+          "name": "1_6_mixer_effects_reverb",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_6_mixer_effects_reverb",
+          "id": "yiWKilVhD"
+        },
+        "_id": "67c205b1106f6dc13ceb6d1b",
+        "createdAt": "2025-02-28T18:51:29.569Z",
+        "updatedAt": "2025-02-28T18:51:29.569Z",
+        "id": "67c205b1106f6dc13ceb6d1b",
+        "projectId": "yiWKilVhD",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "DYm-5g7SE",
+          "name": "1_7_loops_basic_scheduling",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_7_loops_basic_scheduling",
+          "id": "DYm-5g7SE"
+        },
+        "_id": "67c205b4308d1fd455643d0e",
+        "createdAt": "2025-02-28T18:51:32.050Z",
+        "updatedAt": "2025-02-28T18:51:32.050Z",
+        "id": "67c205b4308d1fd455643d0e",
+        "projectId": "DYm-5g7SE",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "ay2K4eF5l",
+          "name": "1_8_loops_not_quantized",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_8_loops_not_quantized",
+          "id": "ay2K4eF5l"
+        },
+        "_id": "67c205b697555a28ebef724c",
+        "createdAt": "2025-02-28T18:51:34.342Z",
+        "updatedAt": "2025-02-28T18:51:34.342Z",
+        "id": "67c205b697555a28ebef724c",
+        "projectId": "ay2K4eF5l",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "045PCv3_W",
+          "name": "1_9_loops_quantized",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_9_loops_quantized",
+          "id": "045PCv3_W"
+        },
+        "_id": "67c205b8308d1fd45564403c",
+        "createdAt": "2025-02-28T18:51:36.663Z",
+        "updatedAt": "2025-02-28T18:51:36.663Z",
+        "id": "67c205b8308d1fd45564403c",
+        "projectId": "045PCv3_W",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-02-28T18:41:19.161Z",
+    "updatedAt": "2025-02-28T18:51:36.663Z",
+    "__v": 21,
+    "id": "_qxPlDhHb"
+  },
+  {
+    "_id": "Olyx3i90r",
+    "name": "melody-examples",
+    "slug": "melody-examples",
+    "owner": {
+      "_id": "6261a0988f0aff0021ab2213",
+      "username": "luisa_NYU",
+      "id": "6261a0988f0aff0021ab2213"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "OVcoyLHKv",
+          "name": "2_1_random_tones_within_range",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "2_1_random_tones_within_range",
+          "id": "OVcoyLHKv"
+        },
+        "_id": "67c205c3106f6dc13ceb794e",
+        "createdAt": "2025-02-28T18:51:47.899Z",
+        "updatedAt": "2025-02-28T18:51:47.899Z",
+        "id": "67c205c3106f6dc13ceb794e",
+        "projectId": "OVcoyLHKv",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "n8cvmXT778",
+          "name": "2_2_random_tones_within_pitch_set",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "2_2_random_tones_within_pitch_set",
+          "id": "n8cvmXT778"
+        },
+        "_id": "67c205c4106f6dc13ceb795d",
+        "createdAt": "2025-02-28T18:51:48.098Z",
+        "updatedAt": "2025-02-28T18:51:48.098Z",
+        "id": "67c205c4106f6dc13ceb795d",
+        "projectId": "n8cvmXT778",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "49z3U40Hl",
+          "name": "2_3_pitch_set_keyboard",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "2_3_pitch_set_keyboard",
+          "id": "49z3U40Hl"
+        },
+        "_id": "67c205c4f475ca6c68aa9ad7",
+        "createdAt": "2025-02-28T18:51:48.271Z",
+        "updatedAt": "2025-02-28T18:51:48.271Z",
+        "id": "67c205c4f475ca6c68aa9ad7",
+        "projectId": "49z3U40Hl",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "Agjy1M-S9",
+          "name": "2_4_derive_pentatonic_scale",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "2_4_derive_pentatonic_scale",
+          "id": "Agjy1M-S9"
+        },
+        "_id": "67c205c497555a28ebef755d",
+        "createdAt": "2025-02-28T18:51:48.471Z",
+        "updatedAt": "2025-02-28T18:51:48.471Z",
+        "id": "67c205c497555a28ebef755d",
+        "projectId": "Agjy1M-S9",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "iXq5gh4SG",
+          "name": "2_5_derive_equal_tempered_scales",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "2_5_derive_equal_tempered_scales",
+          "id": "iXq5gh4SG"
+        },
+        "_id": "67c205c4f475ca6c68aa9aec",
+        "createdAt": "2025-02-28T18:51:48.643Z",
+        "updatedAt": "2025-02-28T18:51:48.643Z",
+        "id": "67c205c4f475ca6c68aa9aec",
+        "projectId": "iXq5gh4SG",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "KWiPisKid",
+          "name": "2_0_0_starter_code",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "2_0_0_starter_code",
+          "id": "KWiPisKid"
+        },
+        "_id": "67c716a129e3dd2bc65fdb3e",
+        "createdAt": "2025-03-04T15:05:05.840Z",
+        "updatedAt": "2025-03-04T15:05:05.840Z",
+        "id": "67c716a129e3dd2bc65fdb3e",
+        "projectId": "KWiPisKid",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "HQrJd0Wag",
+          "name": "2_0_1_instrument",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "2_0_1_instrument",
+          "id": "HQrJd0Wag"
+        },
+        "_id": "67c716a2e40ae92617909fa1",
+        "createdAt": "2025-03-04T15:05:06.192Z",
+        "updatedAt": "2025-03-04T15:05:06.192Z",
+        "id": "67c716a2e40ae92617909fa1",
+        "projectId": "HQrJd0Wag",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "ikAmI3pT0",
+          "name": "2_1_leaping_tones",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "2_1_leaping_tones",
+          "id": "ikAmI3pT0"
+        },
+        "_id": "67c726d829e3dd2bc6680619",
+        "createdAt": "2025-03-04T16:14:16.656Z",
+        "updatedAt": "2025-03-04T16:14:16.656Z",
+        "id": "67c726d829e3dd2bc6680619",
+        "projectId": "ikAmI3pT0",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-02-28T18:41:22.904Z",
+    "updatedAt": "2025-03-04T16:14:16.656Z",
+    "__v": 10,
+    "id": "Olyx3i90r"
+  },
+  {
+    "_id": "Qc5dBFJLO",
+    "name": "rhythm-examples",
+    "slug": "rhythm-examples",
+    "owner": {
+      "_id": "6261a0988f0aff0021ab2213",
+      "username": "luisa_NYU",
+      "id": "6261a0988f0aff0021ab2213"
+    },
+    "items": [
+      {
+        "project": {
+          "_id": "lyxKrogbZ",
+          "name": "1_0_starter_code",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_0_starter_code",
+          "id": "lyxKrogbZ"
+        },
+        "_id": "67c205ba97555a28ebef7405",
+        "createdAt": "2025-02-28T18:51:38.591Z",
+        "updatedAt": "2025-02-28T18:51:38.591Z",
+        "id": "67c205ba97555a28ebef7405",
+        "projectId": "lyxKrogbZ",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "uzDVX1Ymm",
+          "name": "1_1_pulse",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_1_pulse",
+          "id": "uzDVX1Ymm"
+        },
+        "_id": "67c205bc308d1fd455644134",
+        "createdAt": "2025-02-28T18:51:40.109Z",
+        "updatedAt": "2025-02-28T18:51:40.109Z",
+        "id": "67c205bc308d1fd455644134",
+        "projectId": "uzDVX1Ymm",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "yQ_JvTKtC",
+          "name": "1_2_1_tempo",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_2_1_tempo",
+          "id": "yQ_JvTKtC"
+        },
+        "_id": "67c205bdf475ca6c68aa9939",
+        "createdAt": "2025-02-28T18:51:41.320Z",
+        "updatedAt": "2025-02-28T18:51:41.320Z",
+        "id": "67c205bdf475ca6c68aa9939",
+        "projectId": "yQ_JvTKtC",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "rb_GbwUmd",
+          "name": "1_2_2_tap_tempo",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_2_2_tap_tempo",
+          "id": "rb_GbwUmd"
+        },
+        "_id": "67c205bd33ea9166d001529c",
+        "createdAt": "2025-02-28T18:51:41.518Z",
+        "updatedAt": "2025-02-28T18:51:41.518Z",
+        "id": "67c205bd33ea9166d001529c",
+        "projectId": "rb_GbwUmd",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "ay9GU2TSQ",
+          "name": "1_3_meter",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_3_meter",
+          "id": "ay9GU2TSQ"
+        },
+        "_id": "67c205be33ea9166d00152be",
+        "createdAt": "2025-02-28T18:51:42.905Z",
+        "updatedAt": "2025-02-28T18:51:42.905Z",
+        "id": "67c205be33ea9166d00152be",
+        "projectId": "ay9GU2TSQ",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "or46Mib_O",
+          "name": "1_4_accents",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_4_accents",
+          "id": "or46Mib_O"
+        },
+        "_id": "67c205c097555a28ebef74e7",
+        "createdAt": "2025-02-28T18:51:44.217Z",
+        "updatedAt": "2025-02-28T18:51:44.217Z",
+        "id": "67c205c097555a28ebef74e7",
+        "projectId": "or46Mib_O",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "48LOVQa7u",
+          "name": "1_5_syncopation",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_5_syncopation",
+          "id": "48LOVQa7u"
+        },
+        "_id": "67c205c1308d1fd4556442aa",
+        "createdAt": "2025-02-28T18:51:45.612Z",
+        "updatedAt": "2025-02-28T18:51:45.612Z",
+        "id": "67c205c1308d1fd4556442aa",
+        "projectId": "48LOVQa7u",
+        "isDeleted": false
+      },
+      {
+        "project": {
+          "_id": "JHkYG8mdL",
+          "name": "1_6_cross_rhythms",
+          "user": {
+            "_id": "6261a0988f0aff0021ab2213",
+            "username": "luisa_NYU",
+            "id": "6261a0988f0aff0021ab2213"
+          },
+          "slug": "1_6_cross_rhythms",
+          "id": "JHkYG8mdL"
+        },
+        "_id": "67c205c3308d1fd4556446a4",
+        "createdAt": "2025-02-28T18:51:47.000Z",
+        "updatedAt": "2025-02-28T18:51:47.000Z",
+        "id": "67c205c3308d1fd4556446a4",
+        "projectId": "JHkYG8mdL",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2025-02-28T18:41:21.639Z",
+    "updatedAt": "2025-02-28T18:51:47.000Z",
+    "__v": 8,
+    "id": "Qc5dBFJLO"
+  },
+  {
+    "_id": "D_BDyrQpp",
+    "name": "timbre-examples",
+    "slug": "timbre-examples",
+    "owner": {
+      "_id": "6261a0988f0aff0021ab2213",
+      "username": "luisa_NYU",
+      "id": "6261a0988f0aff0021ab2213"
+    },
+    "items": [],
+    "createdAt": "2025-02-28T18:41:24.137Z",
+    "updatedAt": "2025-02-28T18:41:24.137Z",
+    "__v": 0,
+    "id": "D_BDyrQpp"
+  }
+]
