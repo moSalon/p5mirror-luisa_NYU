@@ -1,3 +1,46 @@
+[../../downloads/zips/1_2_mixer_sliders-Krie5RHHa.zip]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+[../../downloads/zips/1_2_mixer_sliders-Krie5RHHa.ZIP]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+[../../downloads/zips/1_2_mixer_sliders-5bfaStPQTP.zip]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+[../../downloads/zips/1_2_mixer_sliders-5bfaStPQTP.ZIP]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+[../../downloads/zips/Interactive Composition-8k7OmNb0y.zip]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+[../../downloads/zips/Interactive Composition-8k7OmNb0y.ZIP]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+unzip 242 AV Instrument-8UdODC1Tc
+[../../downloads/zips/AV Instrument-8UdODC1Tc.zip]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+[../../downloads/zips/AV Instrument-8UdODC1Tc.ZIP]
+  End-of-central-directory signature not found.  Either this file is not
+  a zipfile, or it constitutes one disk of a multi-part archive.  In the
+  latter case the central directory and zipfile comment will be found on
+  the last disk(s) of this archive.
+
+
 jht2@jht2-mbp-n2 p5mirror-luisa_NYU % bin/mirror.sh --user luisa_NYU
 
 Cloning into 'p5mirrorLib'...
@@ -457,16 +500,6 @@ unzip 22 1_5_mixer_waveforms-JXNLO6ftn
 unzip 23 1_4_mixer_meters-NUdTTpoFW
 unzip 24 1_3_mixer_track_labels-jpApHFLIU
 unzip 25 1_2_mixer_sliders-Krie5RHHa
-[../../downloads/zips/1_2_mixer_sliders-Krie5RHHa.zip]
-  End-of-central-directory signature not found.  Either this file is not
-  a zipfile, or it constitutes one disk of a multi-part archive.  In the
-  latter case the central directory and zipfile comment will be found on
-  the last disk(s) of this archive.
-[../../downloads/zips/1_2_mixer_sliders-Krie5RHHa.ZIP]
-  End-of-central-directory signature not found.  Either this file is not
-  a zipfile, or it constitutes one disk of a multi-part archive.  In the
-  latter case the central directory and zipfile comment will be found on
-  the last disk(s) of this archive.
 unzip 26 1_1_mixer_starter-YDmSWppnT
 unzip 27 1_11_loops_record_mic-TcZKN-pc-
 unzip 28 1_10_loops_quantized_with_alts-EG5dh4BSF
@@ -514,16 +547,6 @@ unzip 69 1_5_mixer_waveforms-H4644lCRbQ
 unzip 70 1_4_mixer_meters-Fgtn_8MT
 unzip 71 1_3_mixer_track_labels-sZXgXdUB
 unzip 72 1_2_mixer_sliders-5bfaStPQTP
-[../../downloads/zips/1_2_mixer_sliders-5bfaStPQTP.zip]
-  End-of-central-directory signature not found.  Either this file is not
-  a zipfile, or it constitutes one disk of a multi-part archive.  In the
-  latter case the central directory and zipfile comment will be found on
-  the last disk(s) of this archive.
-[../../downloads/zips/1_2_mixer_sliders-5bfaStPQTP.ZIP]
-  End-of-central-directory signature not found.  Either this file is not
-  a zipfile, or it constitutes one disk of a multi-part archive.  In the
-  latter case the central directory and zipfile comment will be found on
-  the last disk(s) of this archive.
 unzip 73 1_1_mixer_starter-O098r5i-u
 unzip 74 1_11_loops_record_mic-FkhBj5lhc
 unzip 75 1_10_loops_quantized_with_alts-2QiFHVC_U
@@ -693,27 +716,6 @@ unzip 238 3_animate_following_playback_progress-TYlebqMyi
 unzip 239 2_trigger_several_sounds-_D76byZri
 unzip 240 1_play_sound-nYcPnBERE
 unzip 241 Interactive Composition-8k7OmNb0y
-[../../downloads/zips/Interactive Composition-8k7OmNb0y.zip]
-  End-of-central-directory signature not found.  Either this file is not
-  a zipfile, or it constitutes one disk of a multi-part archive.  In the
-  latter case the central directory and zipfile comment will be found on
-  the last disk(s) of this archive.
-[../../downloads/zips/Interactive Composition-8k7OmNb0y.ZIP]
-  End-of-central-directory signature not found.  Either this file is not
-  a zipfile, or it constitutes one disk of a multi-part archive.  In the
-  latter case the central directory and zipfile comment will be found on
-  the last disk(s) of this archive.
-unzip 242 AV Instrument-8UdODC1Tc
-[../../downloads/zips/AV Instrument-8UdODC1Tc.zip]
-  End-of-central-directory signature not found.  Either this file is not
-  a zipfile, or it constitutes one disk of a multi-part archive.  In the
-  latter case the central directory and zipfile comment will be found on
-  the last disk(s) of this archive.
-[../../downloads/zips/AV Instrument-8UdODC1Tc.ZIP]
-  End-of-central-directory signature not found.  Either this file is not
-  a zipfile, or it constitutes one disk of a multi-part archive.  In the
-  latter case the central directory and zipfile comment will be found on
-  the last disk(s) of this archive.
 unzip 243 Pulse walking steps-yPrI77tIZ
 unzip 244 2 make a beat, add tempo slider-LEaODZJkI
 unzip 245 drum beat starter copy-A6r3OSds3
