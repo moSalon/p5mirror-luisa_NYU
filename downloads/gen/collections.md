@@ -7,7 +7,7 @@
 [rhythm-examples](https://editor.p5js.org/luisa_NYU/collections/Qc5dBFJLO)<!-- 2025-02-28T18:51:47.000Z -->  
 [timbre-examples](https://editor.p5js.org/luisa_NYU/collections/D_BDyrQpp)<!-- 2025-02-28T18:41:24.137Z -->  
 
-[com bk drafts](https://editor.p5js.org/luisa_NYU/collections/ITffB7g0N)
+# [com bk drafts](https://editor.p5js.org/luisa_NYU/collections/ITffB7g0N)
 24 sketches  
 [2\_play\_many\_sounds](https://editor.p5js.org/luisa_NYU/sketches/w0cEo4waC)  
 [3\_play\_animation copy](https://editor.p5js.org/luisa_NYU/sketches/n6h450XEt)  
@@ -34,10 +34,10 @@
 [visualize - meter](https://editor.p5js.org/luisa_NYU/sketches/kwk8N7GFd)  
 [visualize - waveform filled](https://editor.p5js.org/luisa_NYU/sketches/R9sVV8wwf)  
 
-[harmony-examples](https://editor.p5js.org/luisa_NYU/collections/-Uku0lQyEe)
+# [harmony-examples](https://editor.p5js.org/luisa_NYU/collections/-Uku0lQyEe)
 0 sketches  
 
-[introduction-examples](https://editor.p5js.org/luisa_NYU/collections/_qxPlDhHb)
+# [introduction-examples](https://editor.p5js.org/luisa_NYU/collections/_qxPlDhHb)
 21 sketches  
 [0\_1\_play\_sound](https://editor.p5js.org/luisa_NYU/sketches/i-gBB5mx6)  
 [0\_2\_trigger\_several\_sounds](https://editor.p5js.org/luisa_NYU/sketches/cjndUn09D)  
@@ -61,7 +61,7 @@
 [1\_8\_loops\_not\_quantized](https://editor.p5js.org/luisa_NYU/sketches/ay2K4eF5l)  
 [1\_9\_loops\_quantized](https://editor.p5js.org/luisa_NYU/sketches/045PCv3_W)  
 
-[melody-examples](https://editor.p5js.org/luisa_NYU/collections/Olyx3i90r)
+# [melody-examples](https://editor.p5js.org/luisa_NYU/collections/Olyx3i90r)
 8 sketches  
 [2\_0\_0\_starter\_code](https://editor.p5js.org/luisa_NYU/sketches/KWiPisKid)  
 [2\_0\_1\_instrument](https://editor.p5js.org/luisa_NYU/sketches/HQrJd0Wag)  
@@ -72,7 +72,7 @@
 [2\_4\_derive\_pentatonic\_scale](https://editor.p5js.org/luisa_NYU/sketches/Agjy1M-S9)  
 [2\_5\_derive\_equal\_tempered\_scales](https://editor.p5js.org/luisa_NYU/sketches/iXq5gh4SG)  
 
-[rhythm-examples](https://editor.p5js.org/luisa_NYU/collections/Qc5dBFJLO)
+# [rhythm-examples](https://editor.p5js.org/luisa_NYU/collections/Qc5dBFJLO)
 8 sketches  
 [1\_0\_starter\_code](https://editor.p5js.org/luisa_NYU/sketches/lyxKrogbZ)  
 [1\_1\_pulse](https://editor.p5js.org/luisa_NYU/sketches/uzDVX1Ymm)  
@@ -83,5 +83,5 @@
 [1\_5\_syncopation](https://editor.p5js.org/luisa_NYU/sketches/48LOVQa7u)  
 [1\_6\_cross\_rhythms](https://editor.p5js.org/luisa_NYU/sketches/JHkYG8mdL)  
 
-[timbre-examples](https://editor.p5js.org/luisa_NYU/collections/D_BDyrQpp)
+# [timbre-examples](https://editor.p5js.org/luisa_NYU/collections/D_BDyrQpp)
 0 sketches  
